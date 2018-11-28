@@ -1,1 +1,3 @@
 # multimedia_test
+
+# git repository to test commits, branches, solve merging conflits and rebase! among other stuff...
